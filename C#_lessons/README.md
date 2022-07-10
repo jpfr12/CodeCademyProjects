@@ -1,6 +1,6 @@
 # Money Maker (project)
 
---  
+---  
 
 * Given 3 coins:  
     - A bronze coin is worth 1 cent  
