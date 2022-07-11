@@ -1,5 +1,5 @@
 ## Password Checker  
-===  
+---  
 
 * Problem Statement: Given a password by the user, the program will evaluate how strong it is.  
   
